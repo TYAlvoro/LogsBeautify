@@ -1,5 +1,5 @@
 <plugins>
-  <plugin id="com.alvoro.logsbeautify" version="1.0.0" url="https://github.com/TYAlvoro/LogsBeautify/releases/download/Pilot/LogsBeautify-1.0.0.zip">
+  <plugin id="com.alvoro.logsbeautify" version="1.0.0" url="https://github.com/TYAlvoro/LogsBeautify/releases/download/Pilot/LogsBeautify-1.0.zip">
     <idea-version since-build="242"/>
   </plugin>
 </plugins>
