@@ -32,7 +32,7 @@ LogsBeautify — это плагин для IDE JetBrains (IntelliJ IDEA, Rider
 1. Скопируйте URL:
 
    ```
-   https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/releases/latest/download/updatePlugins.xml
+   https://github.com/TYAlvoro/LogsBeautify/releases/latest/download/updatePlugins.xml
    ```
 2. В IDE зайдите в **Settings/Preferences → Plugins**.
 3. Нажмите ⚙️ → **Manage Plugin Repositories...**.
