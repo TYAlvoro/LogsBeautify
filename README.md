@@ -2,7 +2,11 @@
 
 LogsBeautify — это плагин для IDE JetBrains (IntelliJ IDEA, Rider и др.), который превращает нечитаемые структурные JSON-логи в интерактивное, отформатированное и удобное для анализа дерево.
 
-![Скриншот LogsBeautify](docs/screenshot.png)
+![Скриншот LogsBeautify](docs/main.png)
+![Скриншот LogsBeautify](docs/expanded.png)
+![Скриншот LogsBeautify](docs/error.png)
+![Скриншот LogsBeautify](docs/warn.png)
+![Скриншот LogsBeautify](docs/info.png)
 
 ## 🚀 Основные возможности
 
